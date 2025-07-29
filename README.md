@@ -1,6 +1,7 @@
 # Heart Failure Risk Predictor 🫀
 
 
+<img width="1858" height="964" alt="Screenshot 2025-07-29 054150" src="https://github.com/user-attachments/assets/7ba90553-c137-41dc-a62c-a9bf3b4802ad" />
 
 **Machine Learning-Powered Clinical Decision Support**
 
